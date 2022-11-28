@@ -21,7 +21,7 @@ author: MohamedHusain NoorMohamed
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://.com"
+  Author's home: "https://husainnk.github.io/"
 
 ################
 # --- Logo --- #
@@ -49,13 +49,13 @@ social-network-links:
   email: "nkhusain@vt.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: husainnk
+  linkedin: mohamed-husain-n
 #  facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
